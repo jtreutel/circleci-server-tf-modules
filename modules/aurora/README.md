@@ -1,0 +1,1 @@
+Optional -- Provisions an Aurora DB for externalizing Postgres.
