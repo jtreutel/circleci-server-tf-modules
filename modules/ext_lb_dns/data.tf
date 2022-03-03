@@ -1,6 +1,6 @@
 
 data "aws_route53_zone" "circleci" {
-  name = local.r53_hosted_zone_domain
+  name = var.r53_hosted_zone_domain
 }
 
 
