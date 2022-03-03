@@ -1,5 +1,3 @@
-variable "region" {}
-
 ##Tag info
 variable "team" {}
 variable "owner" {}
